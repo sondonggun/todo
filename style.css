@@ -1,0 +1,20 @@
+
+#video {
+     position: absolute;
+     top: 0px;
+     left: px;
+     min-width: 100%;
+     min-height: 100%;
+     width: auto;
+     height: auto;
+     z-index: -1;
+     overflow: hidden;
+}
+
+input {
+  border: 2px solid black;
+  width:290px;
+  padding: 10px 10px;
+  font-size: 20px; 
+}
+
